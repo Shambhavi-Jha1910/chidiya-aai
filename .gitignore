@@ -1,0 +1,9 @@
+.venv/
+.vscode/
+tempCodeRunnerFile.python
+
+audio/
+spectrograms/
+
+__pycache__/
+*.pyc
